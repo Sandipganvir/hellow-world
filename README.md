@@ -1,2 +1,2 @@
-# hellow-world
-for codng and learning
+# Hello-world
+For codIng and learning.
